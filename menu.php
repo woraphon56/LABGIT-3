@@ -1,5 +1,7 @@
 <?php
 echo "Home";
 echo"Product";
-echo "folk nagata";
+echo "bangdes nagata";
+
+
 ?>
